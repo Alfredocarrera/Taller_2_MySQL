@@ -1,0 +1,3 @@
+CREATE DATABASE Taller_2;
+USE Taller_2;
+
